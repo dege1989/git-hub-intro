@@ -1,2 +1,2 @@
 # git-hub-intro
-learn about github application!!!!
+learn about github application
